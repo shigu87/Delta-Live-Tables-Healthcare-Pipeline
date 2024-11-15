@@ -47,7 +47,7 @@ This project demonstrates real-time healthcare data processing using **Delta Liv
 ### Prerequisites
 
 - **Databricks workspace** with access to **Delta Lake**.
-- **Databricks Unity Catalog** (optional) to manage Delta tables.
+- **Databricks Unity Catalog** to manage Delta tables.
 - **Delta Live Tables (DLT)** enabled for real-time processing.
 - **Raw data files** in CSV format (diagnosis and patient data).
 
@@ -62,7 +62,6 @@ This project demonstrates real-time healthcare data processing using **Delta Liv
 
 3. **Ensure Delta Live Tables (DLT)** is enabled in your Databricks environment for processing and transforming data.
 
-4. **Clone the repository** into your Databricks workspace and run the notebooks.
 
 ## Challenges Faced
 
