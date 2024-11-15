@@ -55,10 +55,10 @@ This project demonstrates real-time healthcare data processing using **Delta Liv
 
 1. **Set up a Databricks workspace** if you haven't already.
 2. **Upload the raw data files** into **DBFS (Databricks File System)**:
-   - `dbfs:/FileStore/shashank/raw_data/diagnosis_mapping.csv`
-   - `dbfs:/FileStore/shashank/raw_data/patients_daily_file_1_2024.csv`
-   - `dbfs:/FileStore/shashank/raw_data/patients_daily_file_2_2024.csv`
-   - `dbfs:/FileStore/shashank/raw_data/patients_daily_file_3_2024.csv`
+   - `dbfs:/FileStore/shivam/raw_data/diagnosis_mapping.csv`
+   - `dbfs:/FileStore/shivam/raw_data/patients_daily_file_1_2024.csv`
+   - `dbfs:/FileStore/shivam/raw_data/patients_daily_file_2_2024.csv`
+   - `dbfs:/FileStore/shivam/raw_data/patients_daily_file_3_2024.csv`
 
 3. **Ensure Delta Live Tables (DLT)** is enabled in your Databricks environment for processing and transforming data.
 
