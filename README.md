@@ -113,7 +113,7 @@ This solution is highly applicable in healthcare environments where timely and a
 ## Steps to Run the Pipeline
 
 ### 1. Set Up Databricks Workspace
-- Ensure that you have access to a Databricks workspace.
+- Ensure to have access to a Databricks workspace.
 - Create a new cluster in Databricks.
 - Set up a new notebook in SQL for Delta Live Tables and a Python notebook for data ingestion.
 
